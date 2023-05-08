@@ -1,5 +1,8 @@
 Hi there 👋
-![NyandogGIF](https://user-images.githubusercontent.com/119805748/236950585-e0767397-14fb-47e7-98d8-f1d18b246fca.gif)
+
+![ZeldaLinksHandZeldaBotWGIF (2)](https://user-images.githubusercontent.com/119805748/236950849-9b25dce0-0b6c-4d82-8467-5c70de04283d.gif)
+
+
 My name is Luca Ranieri, born in 1996. 
 I am currently studying to become a junior web developer through the Boolean school since January 25th, 2023, and it's been quite challenging! 
 However, as you can see from my repositories, it's been very satisfying. 
