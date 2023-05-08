@@ -9,10 +9,10 @@ However, as you can see from my repositories, it's been very satisfying.
 I would like to thank anyone who would like to share my work and of course, I'm open to collaborations if anyone is interested in expanding and improving my projects. 
 Thank you all for your attention, see you in the next repo! 
 
-
-
 - 🔭 I am currently working to increase my programming skills
 - 🌱 I’m currently learning php
 - ⚡ Fun fact: ...streamer for fun at twitch.tv/videogiuoco
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaRanieri96)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucaRanieri96)](https://github.com/anuraghazra/github-readme-stats)
