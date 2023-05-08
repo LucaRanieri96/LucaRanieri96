@@ -14,3 +14,5 @@ Thank you all for your attention, see you in the next repo!
 - 🔭 I am currently working to increase my programming skills
 - 🌱 I’m currently learning php
 - ⚡ Fun fact: ...streamer for fun at twitch.tv/videogiuoco
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaRanieri96)](https://github.com/anuraghazra/github-readme-stats)
