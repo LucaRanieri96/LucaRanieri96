@@ -15,4 +15,3 @@ Thank you all for your attention, see you in the next repo!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaRanieri96)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucaRanieri96)](https://github.com/anuraghazra/github-readme-stats)
