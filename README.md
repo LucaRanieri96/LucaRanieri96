@@ -1,8 +1,8 @@
 <h3 align="center">Hi there 👋</h3>
 
-<img src="https://user-images.githubusercontent.com/119805748/236950849-9b25dce0-0b6c-4d82-8467-5c70de04283d.gif" alt="" align="center">
-
-![ZeldaLinksHandZeldaBotWGIF (2)](https://user-images.githubusercontent.com/119805748/236950849-9b25dce0-0b6c-4d82-8467-5c70de04283d.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/119805748/236950849-9b25dce0-0b6c-4d82-8467-5c70de04283d.gif" alt="">
+</p>
 
 <p align="center">My name is Luca Ranieri, born in 1996. 
 I am currently studying to become a junior web developer through the Boolean school since January 25th, 2023, and it's been quite challenging! 
