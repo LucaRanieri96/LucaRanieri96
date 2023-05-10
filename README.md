@@ -14,9 +14,9 @@ Thank you all for your attention, see you in the next repo!</p>
 <p align="center">⚡ Fun fact: ...streamer for fun at twitch.tv/videogiuoco</p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    
         <img src="[https://github-readme-stats.vercel.app/api?username=LucaRanieri96](https://github-readme-stats.vercel.app/api?username=LucaRanieri96&show_icons=true&theme=radical)">
-    </a>
+  
 </p>
 
 
