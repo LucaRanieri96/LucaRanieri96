@@ -10,7 +10,7 @@ However, as you can see from my repositories, it's been very satisfying.
 I would like to thank anyone who would like to share my work and of course, I'm open to collaborations if anyone is interested in expanding and improving my projects. 
 Thank you all for your attention, see you in the next repo!</p>
 <p align="center">🔭 I am currently working to increase my programming skills</p>
-<p align="center">🌱 I’m currently learning php</p>
+<p align="center">🌱 I’m currently learning Laravel</p>
 <p align="center">⚡ Fun fact: ...streamer for fun at twitch.tv/videogiuoco</p>
 
 <p align="center">
