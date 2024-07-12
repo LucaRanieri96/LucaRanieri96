@@ -14,7 +14,7 @@
 <p align="center">⚡ Fun fact: ...streamer for fun at twitch.tv/videogiuoco</p>
 
 <h5 align="center">Get in Touch</h5>
-<p align="center">🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/il-tuo-nome](https://www.linkedin.com/in/lucaranieri/)</p>
+<p align="center">🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/lucaranieri/)</p>
 <p align="center">📧 Email me at luca.ranieri.4@gmail.com</p>
 
 
