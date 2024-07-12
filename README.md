@@ -1,4 +1,4 @@
-[<h3 align="center">Hi there 👋</h3>
+<h3 align="center">Hi there 👋</h3>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/119805748/236950849-9b25dce0-0b6c-4d82-8467-5c70de04283d.gif" alt="">
@@ -23,4 +23,3 @@
         <img src="https://github-readme-stats.vercel.app/api?username=LucaRanieri96&show_icons=true&theme=radical">
     </a>
 </p>
-](url)
